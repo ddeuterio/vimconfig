@@ -1,0 +1,10 @@
+set tabstop=2
+set expandtab
+set shiftwidth=2
+syntax on
+set ruler
+set encoding=utf-8
+set wildmenu
+set laststatus=2
+set showmode
+set showcmd
